@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Core.Entities
 {
-   public class EntityBase
+    public class EntityBase
     {
         public Guid Id { get; set; }
-        
+
     }
 }
